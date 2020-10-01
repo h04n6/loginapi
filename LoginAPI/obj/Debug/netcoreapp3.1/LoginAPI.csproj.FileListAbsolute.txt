@@ -1,0 +1,10 @@
+D:\API\LoginAPI\LoginAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\API\LoginAPI\LoginAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\API\LoginAPI\LoginAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\API\LoginAPI\LoginAPI\bin\Debug\netcoreapp3.1\LoginAPI.exe
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\LoginAPI.csprojAssemblyReference.cache
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\LoginAPI.AssemblyInfoInputs.cache
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\LoginAPI.AssemblyInfo.cs
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\LoginAPI.RazorTargetAssemblyInfo.cache
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\LoginAPI.StaticWebAssets.Manifest.cache
+D:\API\LoginAPI\LoginAPI\obj\Debug\netcoreapp3.1\staticwebassets\LoginAPI.StaticWebAssets.xml

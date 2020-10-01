@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kV4ktfxF5xnPwldRoWLJs2lB6FktplUeK+1P9vl+dnDNK0+dzPFpTMmABBplMU6anXnm3gGWobJgwdv9F3w2pA==",
+  "success": true,
+  "projectFilePath": "D:\\API\\LoginAPI\\LoginAPI\\LoginAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
