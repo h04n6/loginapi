@@ -1,5 +1,5 @@
 ﻿
-namespace LoginAPI.Models
+namespace LoginAPI.Models.Users
 {
     public class UserModel
     {
